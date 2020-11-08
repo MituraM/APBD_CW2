@@ -1,0 +1,6 @@
+C:\Repos\APBD-CW2\APBD_CW2\APBD_CW2\bin\Debug\APBD_CW2.exe
+C:\Repos\APBD-CW2\APBD_CW2\APBD_CW2\bin\Debug\APBD_CW2.pdb
+C:\Repos\APBD-CW2\APBD_CW2\APBD_CW2\obj\Debug\APBD_CW2.csprojAssemblyReference.cache
+C:\Repos\APBD-CW2\APBD_CW2\APBD_CW2\obj\Debug\APBD_CW2.csproj.CoreCompileInputs.cache
+C:\Repos\APBD-CW2\APBD_CW2\APBD_CW2\obj\Debug\APBD_CW2.exe
+C:\Repos\APBD-CW2\APBD_CW2\APBD_CW2\obj\Debug\APBD_CW2.pdb
